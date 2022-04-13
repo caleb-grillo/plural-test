@@ -1,0 +1,9 @@
+dependencies:
+- name: bootstrap
+  repository: cm://app.plural.sh/cm/bootstrap
+  version: 0.8.41
+- name: plural-certmanager-webhook
+  repository: cm://app.plural.sh/cm/bootstrap
+  version: 0.1.4
+digest: sha256:0f33146bc9252e527c7b8d79ed0f3fc6e1a4f92b497736d41215b69f67d176c3
+generated: "2022-04-13T17:40:43.964686-04:00"
